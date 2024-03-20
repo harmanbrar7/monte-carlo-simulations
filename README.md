@@ -22,6 +22,7 @@ A repo dedicated to mathematical models for use in financial markets and analyzi
 - Risk-neutral Expectation Pricing Formula in Continuous Time
 - Control Variates
 - Antithetic Variates
+- Gamma Variates
 
 ## Installation
 
