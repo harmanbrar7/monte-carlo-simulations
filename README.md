@@ -1,6 +1,11 @@
 # monte-carlo-simulationss
 Monte Carlo simulations for use in valuing financial derivatives
 
+
+![Screen Shot 2024-03-20 at 12 39 53 AM](https://github.com/harmanbrar7/monte-carlo-simulations/assets/89001739/5ed69c81-1fe8-4741-9c7e-a5a9c1cab29c)
+
+![Screen Shot 2024-03-20 at 12 39 40 AM](https://github.com/harmanbrar7/monte-carlo-simulations/assets/89001739/8abc9613-4287-42ff-8991-430d9436180e)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
