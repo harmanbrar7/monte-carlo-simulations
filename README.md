@@ -15,7 +15,7 @@ Monte Carlo simulations for use in valuing financial derivatives
 
 ## Introduction
 
-A repo dedicated to mathematical models for use in financial markets and analyzing odds in casino games (currently working on this for blackjack). 
+A repo dedicated to mathematical models for use in financial markets and analyzing odds in casino games (currently working on this for blackjack). Includes multi-variate models for pricing stock options.  
 
 ## Features
 
